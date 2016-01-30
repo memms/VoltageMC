@@ -1,0 +1,2 @@
+# VoltageMC
+a minecraft server
